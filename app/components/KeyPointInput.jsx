@@ -28,6 +28,7 @@ const removeKeyPoint =()=>{
            onChange={(e) => setkey_value(...point_description,e.target.value)}
            className="border mt-4 w-[30vw] border-gray-300 rounded-md px-4 py-2 focus:outline-none focus:ring-2 focus:ring-green-600 text-white">
            </textarea>
+           
     </div>
   )
 }
